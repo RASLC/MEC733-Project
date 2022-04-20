@@ -1,2 +1,2 @@
 # MEC733_Project
-Attempt to implement PID controls into robot car to follow a line along a circular path
+Learning to implement PID controls into robot car kit to follow a black line along a circular path
